@@ -1,2 +1,6 @@
 logs/
 .venv/
+*.o
+*.a
+*.so
+fcperft
