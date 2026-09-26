@@ -4,3 +4,6 @@ logs/
 *.a
 *.so
 fcperft
+.DS_Store
+results.csv
+probes.csv
